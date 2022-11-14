@@ -1,0 +1,21 @@
+{
+            "email": "josdgfsdg@gmail.com",
+            "nombres": "Andres",
+            "apellidos": "Ramirez",
+            "password": "123456"
+
+		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7ImlkIjoiNjM2NmY3YjA4OWM3MmUyOGUwOTJiNzAwIn0sImlhdCI6MTY2NzY5MjQ2NCwiZXhwIjoxNjY3Njk2MDY0fQ.5qBel-VPtLXVTQySqj4rLCPYwtEUkTf3hI75DbYWpt0"
+}
+
+
+{
+  "idUsuario": "la1z176s",
+  "idRol": "2",
+  "email": "jealvito@gmail.com",
+  "password": "123456",
+  "nombres": "Jesus",
+  "apellidos": "Viafara"
+
+
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7ImlkIjoiNjM2NmZkNmMyMDMxYzRlZjEwMzE3MWRmIn0sImlhdCI6MTY2NzY5MzkzMiwiZXhwIjoxNjY3NzM3MTMyfQ.G6jhcTBCYO3ecJtXrZqj4icT_NTUt6dL3L_ll1hj8i8"
+}

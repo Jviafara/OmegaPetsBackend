@@ -1,0 +1,5 @@
+OmegaPets
+password: cHgFKOaKFN0vR7I2
+
+
+mongodb+srv://OmegaPets:cHgFKOaKFN0vR7I2>@cluster0.75fngfe.mongodb.net/?retryWrites=true&w=majority
