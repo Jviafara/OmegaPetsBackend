@@ -8,7 +8,6 @@
 		"node": "16.x"
 	},
 	"scripts": {
-		"postinstall": "npm run build",
 		"start": "node index.js"
 	},
 	"author": "",
