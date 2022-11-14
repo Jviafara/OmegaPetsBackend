@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const controllerFactura = require('../controllers/ControllerFacturas');
+const controllerFactura = require('../controllers/controllerFacturas');
 router.get('/listar', controllerFactura);
 router.get('/buscar/:id', controllerFactura);
 router.post('/crear', controllerFactura);

@@ -3,7 +3,7 @@ const router = express.Router();
 const auth = require('../middleware/auth');
 const { check } = require('express-validator');
 
-const controllerUsuarioAuth = require('../controllers/ControllerUsuario');
+const controllerUsuarioAuth = require('../controllers/controllerUsuario');
 //const controllerUserAuth = require('../controllers/controllerUser');
 router.get('/listar', auth, controllerUsuarioAuth);
 router.get('/buscar/:id', auth, controllerUsuarioAuth);
