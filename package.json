@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"engines": {
 		"npm": "8.x",
-		"node": "16.x"
+		"node": "18.x"
 	},
 	"scripts": {
 		"start": "node index.js"
@@ -19,6 +19,7 @@
 		"dotenv": "^16.0.3",
 		"express": "^4.18.2",
 		"express-validator": "^6.14.2",
+		"heroku": "^7.66.2",
 		"jsonwebtoken": "^8.5.1",
 		"jwt-simple": "^0.5.6",
 		"method-override": "^3.0.0",
