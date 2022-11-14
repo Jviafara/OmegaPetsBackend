@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const controllerProducto = require('/controllers/controllerProducto');
+const controllerProducto = require('/controllers/ControllerProducto');
 router.get('/listar', controllerProducto);
 router.get('/buscar/:id', controllerProducto);
 router.post('/crear', controllerProducto);
